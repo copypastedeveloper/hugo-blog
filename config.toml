@@ -1,0 +1,42 @@
+baseurl = "https://blog.copypastedeveloper.com"
+languageCode = "en"
+title = "Copy, Paste, Deploy"
+theme = "Hucore"
+copyright = "&copy; 2017"
+disqusShortname = "shortname"
+googleAnalytics = "trackingcode"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+description = "Watch me make mistakes"
+keywords = ["keyword 1", "keyword 2", "keyword 3"]
+author = "Nathan Gonzalez"
+sharingicons = true
+displayauthor = true
+
+[params.highlight]
+style = "github"
+languages = ["c#", "js"]
+
+[[params.social]]
+url = "https://github.com/ncgonz"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/shortmandev"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://linkedin.com/in/nathancgonzalez"
+fa_icon = "fa-linkedin-square"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
+
+[[params.socialshare]]
+url = "https://linkedin.com/in/nathancgonzalez"
+fa_icon = "fa-linkedin-square"
