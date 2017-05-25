@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Copy, Paste, Deploy</title>
+    <link>https://blog.copypastedeveloper.com/tags/</link>
+    <description>Recent content in Tags on Copy, Paste, Deploy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017</copyright>
+    <lastBuildDate>Thu, 25 May 2017 11:05:42 -0500</lastBuildDate>
+    
+	<atom:link href="https://blog.copypastedeveloper.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile</title>
+      <link>https://blog.copypastedeveloper.com/tags/agile/</link>
+      <pubDate>Thu, 25 May 2017 11:05:42 -0500</pubDate>
+      
+      <guid>https://blog.copypastedeveloper.com/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum</title>
+      <link>https://blog.copypastedeveloper.com/tags/scrum/</link>
+      <pubDate>Thu, 25 May 2017 11:05:42 -0500</pubDate>
+      
+      <guid>https://blog.copypastedeveloper.com/tags/scrum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

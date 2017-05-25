@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Copy, Paste, Deploy</title>
+    <link>https://blog.copypastedeveloper.com/categories/</link>
+    <description>Recent content in Categories on Copy, Paste, Deploy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017</copyright>
+    
+	<atom:link href="https://blog.copypastedeveloper.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Process</title>
+      <link>https://blog.copypastedeveloper.com/categories/process/</link>
+      <pubDate>Thu, 25 May 2017 11:05:42 -0500</pubDate>
+      
+      <guid>https://blog.copypastedeveloper.com/categories/process/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

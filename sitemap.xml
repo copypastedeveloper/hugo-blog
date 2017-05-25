@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.copypastedeveloper.com/process/what-to-do/</loc>
+    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.copypastedeveloper.com/tags/agile/</loc>
+    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.copypastedeveloper.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.copypastedeveloper.com/</loc>
+    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.copypastedeveloper.com/categories/process/</loc>
+    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.copypastedeveloper.com/process/</loc>
+    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.copypastedeveloper.com/tags/scrum/</loc>
+    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.copypastedeveloper.com/tags/</loc>
+    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
