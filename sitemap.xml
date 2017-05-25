@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.copypastedeveloper.com/process/what-to-do/</loc>
+    <loc>http://blog.copypastedeveloper.com/process/what-to-do/</loc>
     <lastmod>2017-05-25T11:05:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.copypastedeveloper.com/tags/agile/</loc>
-    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.copypastedeveloper.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.copypastedeveloper.com/</loc>
+    <loc>http://blog.copypastedeveloper.com/tags/agile/</loc>
     <lastmod>2017-05-25T11:05:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.copypastedeveloper.com/categories/process/</loc>
+    <loc>http://blog.copypastedeveloper.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.copypastedeveloper.com/</loc>
     <lastmod>2017-05-25T11:05:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.copypastedeveloper.com/process/</loc>
+    <loc>http://blog.copypastedeveloper.com/categories/process/</loc>
     <lastmod>2017-05-25T11:05:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.copypastedeveloper.com/tags/scrum/</loc>
+    <loc>http://blog.copypastedeveloper.com/process/</loc>
     <lastmod>2017-05-25T11:05:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.copypastedeveloper.com/tags/</loc>
+    <loc>http://blog.copypastedeveloper.com/tags/scrum/</loc>
+    <lastmod>2017-05-25T11:05:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.copypastedeveloper.com/tags/</loc>
     <lastmod>2017-05-25T11:05:42-05:00</lastmod>
     <priority>0</priority>
   </url>
