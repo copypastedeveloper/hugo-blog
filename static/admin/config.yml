@@ -3,6 +3,8 @@ backend:
   repo: copypastedeveloper/hugo-blog # Path to your Github repository
   branch: master # Branch to update (master by default)
 
+publish_mode: editorial_workflow
+
 # Save image uploads to /img/uploads - https://gohugo.io/themes/creation/#static
 media_folder: "static/img/uploads"
 public_folder: "/img/uploads"
