@@ -1,7 +1,7 @@
 baseurl = "https://blog.copypastedeveloper.com"
 languageCode = "en"
 title = "Hu | Core"
-theme = "Hucore"
+theme = "hucore"
 copyright = "&copy; 2017"
 disqusShortname = "shortname"
 googleAnalytics = "trackingcode"
