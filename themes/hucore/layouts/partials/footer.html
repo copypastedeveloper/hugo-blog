@@ -11,8 +11,23 @@
 {{ range .Site.Params.highlight.languages }}
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/languages/{{ . }}.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js"></script>
+<script type="text/javascript" src="{{ .Site.BaseURL }}/js/Please.js"/>
 {{ end }}
 <script>hljs.initHighlightingOnLoad();</script>
+<script>
+    var randomBase = Please.make_color({
+        format:"hsv",
+        saturation: 10
+    });
+    var colors = Please.make_scheme(randomBase,
+        {
+            scheme_type: "complement",
+            format: "hex"
+        });
+
+    document.documentElement.style.setProperty('--mainColor',colors[0]);
+    document.documentElement.style.setProperty('--secondaryColor',colors[1]);
+</script>
 {{ if .Site.GoogleAnalytics }}
 {{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
