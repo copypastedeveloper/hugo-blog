@@ -1,0 +1,17 @@
+:root {
+    --mainColor : transparent;
+    --secondaryColor : transparent;
+}
+
+#TopBox rect {
+    fill: var(--mainColor) !important;
+}
+
+#BottomBox rect {
+    fill: var(--secondaryColor) !important;
+}
+
+
+path {
+    fill: white !important;
+}
