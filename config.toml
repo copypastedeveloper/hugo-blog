@@ -1,6 +1,6 @@
 baseurl = "https://blog.copypastedeveloper.com"
 languageCode = "en"
-title = "Hu | Core"
+title = "Copy Paste Developer"
 theme = "hucore"
 copyright = "&copy; 2017"
 disqusShortname = "shortname"
@@ -12,7 +12,7 @@ category = "categories"
 
 [params]
 description = "Your description here"
-keywords = ["1234","1234","12344"]
+keywords = ["C#","Development","Process"]
 author = "Nathan Gonzalez"
 sharingicons = true
 
