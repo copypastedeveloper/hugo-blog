@@ -10,3 +10,8 @@
 #BottomBox rect {
     fill: var(--secondaryColor) !important;
 }
+
+
+path {
+    fill:  !important;
+}
