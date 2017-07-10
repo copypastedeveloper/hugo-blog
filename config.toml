@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Copy Paste Developer"
 theme = "hucore"
 copyright = "&copy; 2017"
-disqusShortname = "shortname"
+disqusShortname = "copypastedeveloper"
 googleAnalytics = "trackingcode"
 
 [taxonomies]
