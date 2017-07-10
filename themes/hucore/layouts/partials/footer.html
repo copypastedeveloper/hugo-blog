@@ -11,8 +11,8 @@
 {{ range .Site.Params.highlight.languages }}
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/languages/{{ . }}.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js"></script>
-<script type="text/javascript" src="{{ .Site.BaseURL }}/js/Please.js"/>
 {{ end }}
+<script type="text/javascript" src="{{ .Site.BaseURL }}/js/Please.js"/>
 <script>hljs.initHighlightingOnLoad();</script>
 <script>
     var randomBase = Please.make_color({
